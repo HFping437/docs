@@ -1,2 +1,1 @@
-# docs
-learingVuepress
+# Hello VuePress!
