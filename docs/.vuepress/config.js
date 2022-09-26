@@ -32,7 +32,7 @@ module.exports = {
       home: {
         title: "Han's Blog",
         subtitle: '好好生活，慢慢相遇',
-        headerImage: './public/bg.png'
+        headerImage: '/bg.png'
       },
       tags: {
         title: 'Tags',
