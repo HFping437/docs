@@ -1,5 +1,5 @@
 module.exports = {
-  base: './docs/',
+  base: '/docs/',
   title: "TheOtherOne",
   description: "TheOtherOne_小韩的blog",
   head: [
@@ -32,7 +32,7 @@ module.exports = {
       home: {
         title: "Han's Blog",
         subtitle: '好好生活，慢慢相遇',
-        headerImage: '/bg1.png'
+        headerImage: './public/bg.png'
       },
       tags: {
         title: 'Tags',
