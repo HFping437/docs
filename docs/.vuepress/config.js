@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/docs/',
+  base: './docs/',
   title: "TheOtherOne",
   description: "TheOtherOne_小韩的blog",
   head: [
