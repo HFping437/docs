@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/HFping437/docs#readme",
   "dependencies": {
+    "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.8",
     "vuepress": "^1.9.7",
     "vuepress-theme-melodydl": "^1.1.2"
