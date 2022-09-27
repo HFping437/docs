@@ -1,7 +1,7 @@
 module.exports = {
-  base: '/docs/',
   title: "TheOtherOne",
   description: "TheOtherOne_小韩的blog",
+  base: '/docs/',
   head: [
     ['link', {
       rel: 'icon',
